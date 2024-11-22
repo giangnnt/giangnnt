@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Backend Developing at FPT University
+🌱 I’m currently Backend Developer Student at FPT University!
 
 
 ## 🌐 Socials:
