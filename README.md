@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Back-end Developer at Fujinet System JSC!
+I'm currently a Full-stack Developer!
 
 
 # 💻 Tech Stack:
