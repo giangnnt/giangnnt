@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is **Nguyen Giang**.
+Hello! My name is **Truong Giang**.
 
 I am a software engineer with a strong interest in software development in particular, and computer science in general.  
 Right now, I am focusing on learning about databases.
